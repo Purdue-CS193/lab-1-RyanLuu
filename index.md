@@ -1,3 +1,11 @@
+# Ryan's first CS193 Lab
+
+My favorite things about CS193:
+- The lab instructors
+- The grade I'm getting on this lab
+- Vegan and gluten free
+- :b:
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
